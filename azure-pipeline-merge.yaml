@@ -11,7 +11,7 @@ trigger:
     - main
   paths:
     include:
-    - ADO-Update/vnet
+#    - ADO-Update/vnet
 
 stages:
 - stage: Apply
