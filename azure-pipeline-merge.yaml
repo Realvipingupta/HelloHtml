@@ -9,9 +9,9 @@ trigger:
   branches:
     include:
     - main
-#  paths:
-#    include:
-#    - ADO-Update/vnet
+  paths:
+    include:
+    - ADO-Update/vnet
 
 stages:
 - stage: Apply
