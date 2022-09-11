@@ -10,7 +10,7 @@ trigger:
     include:
     - main
   paths:
-    include:
+#    include:
 #    - ADO-Update/vnet
 
 stages:
